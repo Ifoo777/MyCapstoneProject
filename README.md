@@ -9,7 +9,7 @@ What this project does is that it allows a user to browse through the site and l
 * Installation/downloading files to your local machine
 * How to use project after installing/downloading
  
- ##How to clone/Download files:
+ ## How to clone/Download files:
  
  In order to get the full files from this repository simply follow the following steps:
  
@@ -38,14 +38,14 @@ After clicking on open with live server the folder will open up a local window f
 
 ![Screenshot 2022-07-27 145050](https://user-images.githubusercontent.com/49390798/181251051-cd773aab-7b2e-44fb-82f9-149a41d72164.png)
 
-##How the code works
+## How the code works
 
 The page has a nav bar on the top which takes you to the menu comments contact details testimonial pages
 if you scroll down you will see the menu of the recipes
 
 ![Screenshot 2022-07-27 163225](https://user-images.githubusercontent.com/49390798/181274217-954b5c34-2d13-4c01-9205-b95db399b795.png)
 
-##Credits
+## Credits
 
 The author of this project is HyperionDev and I Irfaan Osman am the only contributor and this is a capstone project for HyperionDev
 
